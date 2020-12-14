@@ -2,11 +2,7 @@
 
 This repository shares the accompanying code for the publication  "Cascade Size Distributions: Why they matter and How to Compute Them Efficiently" (AAAI 2021) by Rebekka Burkholz and John Quackenbush.
 
-<object data="https://github.com/rebekka-burkholz/TDA/blob/main/fig/Overview.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/rebekka-burkholz/TDA/blob/main/fig/Overview.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<p><img src="fig/Overview.png" width="800" /></p>
 
 Efficient algorithms that compute the cascade size distribution and activation probabilities conditional on the final cascade size are available for the Independent Cascade Model (ICM) and implemented in C++, R, and Python.
 
